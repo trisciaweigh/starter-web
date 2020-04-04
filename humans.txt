@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Triscia Weigh  student  iyawey@gmail.com
 
 # THANKS
 
-    <name>
+    Thank you!
 
 # TECHNOLOGY COLOPHON
 
