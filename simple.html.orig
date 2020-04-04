@@ -2,7 +2,11 @@
 
 	<!-- Copyright 2020 Git.Training 
 	adding changes before rebasing
+<<<<<<< HEAD
 	change on master-->
+=======
+	changes from big trouble-->
+>>>>>>> addtrouble
 
 
 
@@ -20,12 +24,21 @@
 </head>
 <body>
 	<main class="container">
+	<!-- Content Goedads Here -->
 		<p>
+<<<<<<< HEAD
 			Just some contentfadfaf
 		</p>
 	</main>
 	<footer class="container">
+		<p>&copy; Company 201ss4</p>
+=======
+			Just nothing but trouble
+		</p>
+	</main>
+	<footer class="container">
 		<p>&copy; Company 2020</p>
+>>>>>>> addtrouble
 	</footer>
 </body>
 </html>
